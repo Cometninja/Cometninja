@@ -8,7 +8,6 @@ I am passionate about software developement and I have a great desire to create 
 
 My goals over the next few years is to develope a deeper understanding of programming as I find joy in a project coming together.
 ![image](https://github.com/Cometninja/Cometninja/assets/111768925/7b2b83ad-4d84-4e46-9089-bf8a14897d11)
-![IMG_20230602_131229](https://github.com/Cometninja/Cometninja/assets/111768925/a6b58a6d-92b4-4917-bb20-dfbc583cec01)
 
 My greatest acheivement is creating chess in the C# Monogame Framework which can be seen in my projects.
 After presenting my game at an Expo i have recieved feedback and will be implimenting the changes over the summer.
