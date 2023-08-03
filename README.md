@@ -13,6 +13,15 @@ After presenting my game at an Expo i have recieved feedback and will be implime
 
 I am passionate to learn so feel free to review my code and offer suggestions if you feel that I could improve.
 
+currently I am learning HTML, CSS, JavaScript, Node.js, and Java in order to create a chess game playable in browser with the option to play other players.
+
+you can see my progress in the project <https://github.com/Cometninja/OnlineChess>
+
+![image](https://github.com/Cometninja/Cometninja/assets/111768925/9a999453-4ed6-40be-8fe2-d242df7b733e)
+
+
+
+
 
 
 
